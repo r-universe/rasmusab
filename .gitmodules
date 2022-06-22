@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bayesboot"]
+	path = bayesboot
+	url = https://github.com/rasmusab/bayesboot
+	shallow = true
+	registered = true
