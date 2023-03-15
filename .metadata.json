@@ -2,5 +2,9 @@
   {
     "package": "bayesboot",
     "oncran": true
+  },
+  {
+    "package": "beepr",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/rasmusab/bayesboot
 	shallow = true
 	registered = true
+[submodule "beepr"]
+	path = beepr
+	url = https://github.com/rasmusab/beepr
+	shallow = true
+	registered = true
